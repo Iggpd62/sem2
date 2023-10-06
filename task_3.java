@@ -1,3 +1,5 @@
+// Задание 3. Дан следующий код, исправьте его там, где требуется.
+
 public class task_3 {
     public static void main(String[] args) throws Exception {
         try {
